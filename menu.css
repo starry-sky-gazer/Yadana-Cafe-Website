@@ -1,0 +1,23 @@
+
+
+.scroll-container{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+    white-space: nowrap;
+    padding: 10px;
+    
+}
+
+.scroll-container img{
+    height: 900px;
+    width: auto;
+    padding: auto;
+    overflow: hidden;
+    align-items: center;
+}
+
+.p{
+    align-items: center;
+}

@@ -1,0 +1,112 @@
+body{
+        background-image: url("pics/favicon/wooden_texture.jpg");
+        background-repeat:repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+
+
+p {
+    color: black;
+    font-size: medium;
+    font-family: cursive;
+}
+
+a:link{
+    color: rgb(17, 0, 255);
+}
+a:visited{
+    color: rgba(71, 43, 255, 0.907);
+}
+img{
+    width: 200px;
+    height: auto;
+}
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+}
+
+.nav-left, .nav-right{
+    display: left;
+    gap: 20px;
+    flex: 1;
+}
+
+.nav-right{
+    justify-content: flex-end;
+}
+
+ul {
+    position: sticky;
+    position: -webkit-sticky; /*<!-- see if i can add the stucky later on -->*/
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    gap: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color:none;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+li{
+    float: left;
+    margin: 25px;
+    
+}
+
+li a {
+    display: inline-block;
+    color: none;
+    background: none;
+    justify-content: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #248dd396;
+}
+
+.flex-container {
+    display: inline;
+    
+}
+
+.logo{
+    flex: 0 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    height: auto;
+}
+
+
+
+.flex-container_header > div {
+    
+    margin: 5px;
+    padding: 5px;
+    background-color: transparent;
+    color: none;
+    top: 0;
+    align-content: center;
+    text-align: center;
+    z-index: 1000;
+    
+}
+
+.flex-container_footer > div {
+    background-color: none;
+    bottom: 0;
+    margin: 5px;
+    pad: 5px;
+}

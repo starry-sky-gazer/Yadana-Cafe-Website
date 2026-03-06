@@ -1,0 +1,92 @@
+
+
+#navbar {
+    overflow: hidden;
+    background-color: #ffb429e0;
+    top: 0;
+    width: 100%;
+    transition: 0.4s;
+    display: inline-block;
+}
+
+.navbar brand{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+p {
+    color: black;
+    font-size: medium;
+    font-family: cursive;
+}
+
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+}
+
+
+
+img{
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+}
+
+.nav-left, .nav-right{
+    display: left;
+    gap: 20px;
+    flex: 1;
+}
+
+.nav-right{
+    justify-content: flex-end;
+}
+
+
+
+div.desc {
+    padding: 20%;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    background-color: gray;
+}
+
+
+.gallery {
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+
+figure img {
+    width: 330px;
+    height: auto;
+    margin: 0px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 14px;
+    color: #333;
+}

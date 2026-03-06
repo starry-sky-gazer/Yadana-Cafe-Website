@@ -1,0 +1,54 @@
+2 modes; landscape and potrait (or mobile and pc/tablets)
+
+picture updating (?)
+
+price(?){very unlikely}
+
+
+necessary features:
+search bar
+side bar [home, linked location to google maps, phone numbers, gallery] (done)
+quick links in both side bar and in footers
+iframe of location somewhere
+link to fb page
+
+
+
+
+
+////List for searching:
+
+Breakfast thingies (mont hin gar) plus plse
+Rice salads		Noodle salads
+today specials' (look into the specifics later on) 
+Fried Rice 		Fried Noodles		
+Rice and curry		just curries
+Breakfast
+
+
+
+to do list:
+redo the css and cleanup
+
+make a slideshow for the front page with the pics that was set aside
+make the nav bar for the front page transparent
+make a big button that will move to the catagory page
+
+
+
+remake the gallery css for all the pages
+recheck the flex box
+make sure the header will appear the same in all different pages (*** rethink this because i might design the front page to be a bit different from the rest of the website)
+rethink what i want to do with the "items-page"
+include a link for the menus seperately
+
+make separate pages for the catagories itself (i.e curries, drinks, bakeries ,....)
+only one css page will be needed for it and multiple pages can use the same one
+so i need to come up with a multiple designs for it for tablets, phones and computers
+
+
+i also need to think about setting itself up
+need to think about what device to use or see if it can be hosted with my devices
+
+
+
