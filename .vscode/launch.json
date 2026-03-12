@@ -11,7 +11,7 @@
             "type": "firefox",
             "request": "launch",
             "name": "Open main.html",
-            "file": "E:\\visual studio\\website for store\\Yadana Cafe Website\\main.html"
+            "file": "E:\\visual studio\\website for store\\Yadana-Cafe-Website\\main.html"
         }
     ]
 }
