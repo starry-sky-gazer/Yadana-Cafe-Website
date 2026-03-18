@@ -92,7 +92,7 @@ li a:hover {
 
 
 .flex-container_header > div {
-    
+    background-image: url(favicon/darkwood_texture.png);
     margin: 5px;
     padding: 5px;
     background-color: transparent;
