@@ -10,7 +10,7 @@
         {
             "type": "firefox",
             "request": "launch",
-            "name": "Open main.html",
+            "name": "Open index.html",
             "file": "E:\\visual studio\\website for store\\Yadana-Cafe-Website\\index.html"
         }
     ]

@@ -19,10 +19,7 @@ a:link{
 a:visited{
     color: rgba(255, 0, 0, 0.907);
 }
-img{
-    width: 200px;
-    height: auto;
-}
+
 
 .dropdown {
     float: right;
@@ -45,11 +42,11 @@ ul {
     display: inline-flex;
     list-style-type: none;
     margin: 0;
-    gap: 10px;
+    gap: 5px;
     padding: 0;
     overflow: hidden;
     background-color:none;
-    font-size: 25px;
+    font-size: 10px;
     justify-content: center;
     align-items: center;
     
@@ -57,7 +54,7 @@ ul {
 
 li{
     float: left;
-    margin: 25px;
+    margin: 14px;
     
 }
 
@@ -66,7 +63,7 @@ li a {
     color: none;
     background: none;
     justify-content: center;
-    padding: 14px 16px;
+    padding: 7px 8px;
     text-decoration: none;
 }
 
