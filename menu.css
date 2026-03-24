@@ -6,13 +6,13 @@
     align-items: center;
     overflow-y: scroll;
     white-space: nowrap;
-    padding: 10px;
+    padding: 5px;
     
 }
 
 .scroll-container img{
     height: auto;
-    width: auto;
+    width: 365px;
     padding: auto;
     overflow: hidden;
     align-items: center;
