@@ -14,10 +14,10 @@ p {
 }
 
 a:link{
-    color: rgb(17, 0, 255);
+    color: rgb(255, 255, 255);
 }
 a:visited{
-    color: rgba(71, 43, 255, 0.907);
+    color: rgba(255, 0, 0, 0.907);
 }
 img{
     width: 200px;
@@ -71,7 +71,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #248dd396;
+    background-color: #00000096;
 }
 
 .flex-container {
